@@ -1,3 +1,4 @@
+
 function Kth_greatest_in_array(arr, k) {
 
     for (var i = 0; i < k; i++) {
@@ -19,3 +20,21 @@ function Kth_greatest_in_array(arr, k) {
   
   console.log(Kth_greatest_in_array([1,5,8], 11))
   console.log(Kth_greatest_in_array([-11,-36,-47,-66,0], 1))
+
+// program to reverse a string
+
+function reverseString(str) {
+
+    // empty string
+    let newString = "";
+    for (let i = str.length - 1; i >= 0; i--) {
+        newString += str[i];
+    }
+    return newString;
+}
+
+// take input from the user
+const string = prompt('Enter the string');
+
+const result = reverseString(string);
+console.log(result);

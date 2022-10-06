@@ -25,11 +25,12 @@
 - Question 21 : Explain WeakSet in javascript.
 - Question 22 : Tell us about the difference between .call() and .apply() functions. Give an example of demonstrating the difference between the two JS functions.
 - Question 23 : What are Exports & Imports?
-- Question 24 : Write a program to create JavaScript object using object literal.
+- Question 24 : WAJP program to convert date to number.
 - Question 25 : How to convert an Object {} into an Array [] in JavaScript?
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
+
 - Question 29 : program to convert celsius to fahrenheit.
 - Question 30 : converting kilometers into miles by javascript.
 - Question 31 : caesarCipher in java script
@@ -37,7 +38,17 @@
 - Question 33 : 31st december is being a tuesday(from 2020-3030) using java script
 - Question 34 :Kth greatest in array
 - Question 35 :program for a simple calculator using if...else if... else
+
+- Question 29 : Write a program to print factorial of a number.
+- Question 30 : Write a Javascript program to find number of trailing zeros in the factorial of a number
+- Question 31 : Write a program to create JavaScript object using object literal.
+- Question 32 : JavaScript Program for MergeSort.
+- Question 33 : Write a JavaScript program to display the current day and time in the following format. Today is : Tuesday. Current time is : 10 PM : 30 : 38
+- Question 34 : Write a program to reverse a string in Javascript 
+- Question 35 : Write a JavaScript program to make a Simple Calculator.
+
 - More Questions to be added soon!
+
 
 ### Author : Abhay Anand
 

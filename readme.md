@@ -30,6 +30,13 @@
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
+- Question 29 : program to convert celsius to fahrenheit.
+- Question 30 : converting kilometers into miles by javascript.
+- Question 31 : caesarCipher in java script
+- Question 32 : palindrome using javascript
+- Question 33 : 31st december is being a tuesday(from 2020-3030) using java script
+- Question 34 :Kth greatest in array
+- Question 35 :program for a simple calculator using if...else if... else
 - More Questions to be added soon!
 
 ### Author : Abhay Anand

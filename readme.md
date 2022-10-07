@@ -45,6 +45,7 @@
 - Question XX : WAP to implement insertion sort in JavaScript.
 - Question XX : Write a javascript program to find palindrome numbers.
  -Question XX : Map, Filter and Reduce ed.
+- Question 41 : JavaScript Program for QuickSort.
 - More Questions to be added soon!
 
 

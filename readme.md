@@ -29,7 +29,9 @@
 - Question 25 : How to convert an Object {} into an Array [] in JavaScript?
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
-- Question 28 : Map, Filter and Reduce Explained.
+- Question 28 : Write a javascript program to find palindrome numbers.
+ -Question 28 : Map, Filter and Reduce ed.
+
 - More Questions to be added soon!
 
 ### Author : Abhay Anand

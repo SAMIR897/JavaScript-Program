@@ -42,6 +42,8 @@
 - Question 38 : Write a JavaScript Program to generate random numbers.
 - Question 39 : Write a JavaScript Program to Find HCF or GCD.
 - Question XX : WAP to implement insertion sort in JavaScript.
+- Question XX : Write a javascript program to find palindrome numbers.
+ -Question XX : Map, Filter and Reduce ed.
 - More Questions to be added soon!
 
 

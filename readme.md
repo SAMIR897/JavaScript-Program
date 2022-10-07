@@ -38,6 +38,7 @@
 - Question 34 : Write a program to reverse a string in Javascript 
 - Question 35 : Write a JavaScript program to make a Simple Calculator.
 - Question 36 : Write a JavaScript Program to Find Armstrong Number in an Interval.
+- Question 37 : Write a JavaScript Program to Find HCF or GCD.
 - Question 38 : Write a JavaScript Program to generate random numbers.
 - Question XX : WAP to implement insertion sort in JavaScript.
 - More Questions to be added soon!
